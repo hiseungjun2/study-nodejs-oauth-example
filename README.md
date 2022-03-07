@@ -11,4 +11,16 @@
  ngrok http 5000
  ```
 
-### 3. 페이스북 로그인 테스트
+### 3. .env 생성 후 파라미터 세팅
+ ```
+ FB_APP_ID=
+ FB_CLIENT_SECRET=
+ SERVER_SECRET=
+
+ MONGO_USER=
+ MONGO_PASSWORD=KSJ=
+ MONGO_CLUSTER=
+ MONGO_DBNAME=
+ ```
+
+ ### 4. 페이스북 로그인 테스트
